@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694307099094",
+    "project_id": "trust-laundry",
+    "storage_bucket": "trust-laundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694307099094:android:270214d2d30e89f13c5477",
+        "android_client_info": {
+          "package_name": "com.example.trustlaundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNFGvIdk53xNaktr9XYyhh15lTW2RCUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694307099094:android:4bd42346ecc1197f3c5477",
+        "android_client_info": {
+          "package_name": "com.trust.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNFGvIdk53xNaktr9XYyhh15lTW2RCUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
